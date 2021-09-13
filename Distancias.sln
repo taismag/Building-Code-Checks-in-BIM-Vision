@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distancias", "Distancias - Cópia\Distancias.csproj", "{80BAC41F-7B02-4E6B-A4FB-1FBD19A64BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80BAC41F-7B02-4E6B-A4FB-1FBD19A64BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BAC41F-7B02-4E6B-A4FB-1FBD19A64BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BAC41F-7B02-4E6B-A4FB-1FBD19A64BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BAC41F-7B02-4E6B-A4FB-1FBD19A64BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {415A8618-6A6F-43B7-A21B-2AE37B9FEC20}
+	EndGlobalSection
+EndGlobal
